@@ -1,0 +1,22 @@
+# IDEA files
+/.idea/*
+*.iml
+*.iws
+*.ipr
+
+# STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# java files
+*.class
+
+# SpringBoot init files
+
+*.cmd
+**/mvnw
